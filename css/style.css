@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+
+}
+
+table {
+  
+}
+
+
+#vault {
+  text-align: center;
+}
+
+img {
+position: top;
+width: 20px;
+}
+
+#vault img {
+  width: 200px;
+  height: 200px;
+  
+}
+
+#uploadForm {
+  width: 500px;
+  margin: 0 auto;
+  color: #e0dede;
+  text-align: center;
+  display: none;
+}
+
+textarea {
+  resize: vertical;
+}
+	
